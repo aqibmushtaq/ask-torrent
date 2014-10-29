@@ -1,0 +1,16 @@
+{
+  "name": "torrent-downloader",
+  "version": "0.0.1",
+  "description": "A app to initialise torrent downlaods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aqib Mushtaq",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "thepiratebay": ">= 0.1.2",
+    "node-tweet-stream": "1.2.x",
+    "node-twitter": ">= 0.5.2"
+  }
+}
