@@ -1,2 +1,5 @@
 *.done
 node_modules
+config.js
+whitelist.js
+transfer-files.sh
